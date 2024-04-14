@@ -1,5 +1,5 @@
 {
   "ENVIRONMENT_FLAVOR": "PRD",
-  "BASE_API": "https://190rj.sepm.rj.gov.br/api/v2/190-rj",
-  "GOOGLE_PLACES_API_KEY": "AIzaSyDOVnuXSoxlopA6aVi-VpEjgD1wv-kp6mg"
+  "BASE_API": "#",
+  "GOOGLE_PLACES_API_KEY": "#"
 }

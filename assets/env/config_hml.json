@@ -1,5 +1,5 @@
 {
   "ENVIRONMENT_FLAVOR": "HML",
-  "BASE_API": "https://api-homologacao190rj.pmerj.seg.br/api/v3/teste-190-rj",
-  "GOOGLE_PLACES_API_KEY": "AIzaSyDOVnuXSoxlopA6aVi-VpEjgD1wv-kp6mg"
+  "BASE_API": "#",
+  "GOOGLE_PLACES_API_KEY": "#"
 }
