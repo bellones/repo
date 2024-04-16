@@ -14,6 +14,10 @@ dependencies:
   cupertino_icons: ^1.0.6
   flutter_modular: ^6.3.3
   flutter_bloc: ^8.1.5
+  dartz: ^0.10.1
+  flutter_secure_storage: ^9.0.0
+  flutter_animate: ^4.5.0
+  http: ^1.2.1
 
 dev_dependencies:
   integration_test:
@@ -22,8 +26,7 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^3.0.2
-  build_runner: ^2.3.3
-  mockito:
+  mocktail: ^1.0.3
   faker:
   bloc_test: ^9.1.7
 
